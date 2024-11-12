@@ -1,1 +1,0 @@
-/home/j.bell_cbs-niob.local/g/Group Crous/000INTERNS/Jasper/Sequences_Anouk/assemblies/SRR18318458.fasta -in -dbtype nucl -parse_seqids -blastdb_version 5 -out /home/j.bell_cbs-niob.local/h/BLAST/databases/SRR18318458 -title SRR18318458
